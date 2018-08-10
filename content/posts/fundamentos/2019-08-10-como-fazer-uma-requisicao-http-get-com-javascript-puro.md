@@ -26,8 +26,10 @@ console.log(xhttp.responseText);
 O código acima faz uma requisição **síncrona** (pois o terceiro parâmetro da função ```open``` é ```false```).
 Ou seja, a execução do código pára no método ```send()``` enquanto a requisição não retorna do servidor.
 
-Entretando, muitas vezes precisamos fazer uma requisição assíncrona.
-Ou seja, o código continua sendo executado, mesmo que o servidor não tenha respondido à requisição ainda.
+**Importante!** Requisições síncronas com XMLHttpRequest provavelmente não será possível em versões futuras do javascript.
+Por isso é mais **indicado fazer requisições assíncronas**! Embora esse processo de remoção possa demorar anos.
+
+Com requisições assíncronas, o código continua sendo executado mesmo que o servidor não tenha respondido à requisição ainda.
 
 O código abaixo mostra como fazer uma requisição HTTP **assíncrona** com ```XMLHttpRequest```.
 
@@ -92,5 +94,5 @@ Qualquer dúvidas, fique a vontade para postar nos comentários.
 
 ## Referências
 
-[Mozila: XMLHttpRequest](https://developer.mozilla.org/pt-BR/docs/Web/API/XMLHTTPRequest){:target=\_blank}
-[Código-fonte](https://github.com/gustavofoa/dicasdejavascript.com.br/tree/master/content/examples/exemplo-http-get-request/){:target=\_blank}
+1. [Mozila: XMLHttpRequest](https://developer.mozilla.org/pt-BR/docs/Web/API/XMLHTTPRequest){:target=\_blank}
+2. [Código-fonte](https://github.com/gustavofoa/dicasdejavascript.com.br/tree/master/content/examples/exemplo-http-get-request/){:target=\_blank}
