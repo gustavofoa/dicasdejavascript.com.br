@@ -11,7 +11,7 @@ Para isso basta utilizar a API **XMLHttpRequest** nativa do javascript.
 > Disponibilizei um arquivo texto para utilizarmos como exemplo no endereço:
 <https://dicasdejavascript.com.br/exemplo.txt>
 
-O código abaixo mostra a forma mais simples de fazer uma requisição GET com javascript.
+O código abaixo mostra a forma mais simples, embora não indicada, de fazer uma requisição GET com javascript.
 
 ```javascript
 var url = "https://dicasdejavascript.com.br/exemplo.txt";//Sua URL
