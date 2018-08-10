@@ -26,7 +26,7 @@ console.log(xhttp.responseText);
 O código acima faz uma requisição **síncrona** (pois o terceiro parâmetro da função ```open``` é ```false```).
 Ou seja, a execução do código pára no método ```send()``` enquanto a requisição não retorna do servidor.
 
-**Importante!** Requisições síncronas com XMLHttpRequest provavelmente não será possível em versões futuras do javascript.
+**Importante!** O suporte à requisições síncronas com XMLHttpRequest será removido em versões futuras do javascript.
 Por isso é mais **indicado fazer requisições assíncronas**! Embora esse processo de remoção possa demorar anos.
 
 Com requisições assíncronas, o código continua sendo executado mesmo que o servidor não tenha respondido à requisição ainda.
