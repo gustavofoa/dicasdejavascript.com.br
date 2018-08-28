@@ -1,4 +1,4 @@
-title: Javascript: Como converter string um objeto JSON
+title: Javascript: Como converter string em objeto JSON
 date: 2018-08-27
 author: Gustavo Furtado de Oliveira Alves
 category: Fundamentos
