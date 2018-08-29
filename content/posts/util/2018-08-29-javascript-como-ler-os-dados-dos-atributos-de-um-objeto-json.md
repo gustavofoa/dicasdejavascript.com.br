@@ -2,7 +2,7 @@ title: Javascript: Como ler os dados dos atributos de um objeto JSON
 date: 2018-08-29
 author: Gustavo Furtado de Oliveira Alves
 category: Util
-tags: string, json, converter
+tags: json
 image: /images/logo-javascript.png
 
 Existem duas formas de ler o valor de um atributo de um objeto json.
