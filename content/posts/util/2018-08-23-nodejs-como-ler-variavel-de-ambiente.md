@@ -1,7 +1,7 @@
 title: NodeJs: Como ler variável de ambiente
 date: 2018-08-23
 author: Gustavo Furtado de Oliveira Alves
-category: Fundamentos
+category: Util
 tags: process
 image: /images/logo-nodejs.png
 
