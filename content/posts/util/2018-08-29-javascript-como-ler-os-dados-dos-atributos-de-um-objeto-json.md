@@ -13,7 +13,7 @@ A segunda maneira é com colchetes e uma string com o nome do atributo.
 
 Vamos ver um exemplo
 
-Suponhamos que temos um objeto como o do exemplo anterior e queremos acessar o `atributo1`,
+Suponhamos que temos um objeto como o do exemplo abaixo e queremos acessar o `atributo1`,
 podemos fazer isso desses dois jeitos:
 
 ```javascript
