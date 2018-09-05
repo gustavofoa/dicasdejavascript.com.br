@@ -11,7 +11,7 @@ A primeira é através do ponto (`.`), você escreve o nome do objeto ponto (`.`
 
 A segunda maneira é com colchetes e uma string com o nome do atributo.
 
-Vamos ver um exemplo
+Vamos ver um exemplo...
 
 Suponhamos que temos um objeto como o do exemplo abaixo e queremos acessar o `atributo1`,
 podemos fazer isso desses dois jeitos:
