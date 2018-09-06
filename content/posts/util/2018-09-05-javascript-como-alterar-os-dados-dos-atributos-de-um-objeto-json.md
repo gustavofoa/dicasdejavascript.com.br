@@ -8,7 +8,7 @@ image: /images/logo-javascript.png
 Assim como para [ler os atributos de um json](https://dicasdejavascript.com.br/javascript-como-ler-os-dados-dos-atributos-de-um-objeto-json/){:target=\_blank},
 existem duas formas de alterar o valor de um atributo de um objeto json.
 
-A primeira é através do ponto (`.`), você escreve o nome do objeto ponto (`.`) e o nome do atributo, em seguida o sinal igual (`=`) e, por fim, o novo valor do atributo.
+A primeira é através do ponto (`.`), você escreve o nome do objeto, ponto (`.`) e o nome do atributo, em seguida o sinal igual (`=`) e, por fim, o novo valor do atributo.
 
 A segunda maneira é com colchetes e uma string com o nome do atributo, também seguido do sinal de igual
 (`=`) e o novo valor do atributo.
@@ -40,6 +40,6 @@ console.log(objeto.atributo1);
 console.log(objeto.atributo3);
 ```
 
-Abaixo um exemplo de execução de leitura de atributos no console do Chrome.
+Abaixo um exemplo de execução de alteração de atributos no console do Chrome.
 
 ![Exemplo de alteração e adição de atributos em um objeto json em Javascript](/images/alteracao-de-atributos-de-um-json.gif){:width=100%}
