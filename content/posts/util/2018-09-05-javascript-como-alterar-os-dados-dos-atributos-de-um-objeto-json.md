@@ -1,11 +1,11 @@
-title: Javascript: Como alterar os dados dos atributos de um objeto JSON
+﻿title: Javascript: Como alterar os dados dos atributos de um objeto JSON
 date: 2018-09-05
 author: Gustavo Furtado de Oliveira Alves
 category: Util
 tags: json
 image: /images/logo-javascript.png
 
-Assim como [ler os atributos de um json](https://dicasdejavascript.com.br/javascript-como-ler-os-dados-dos-atributos-de-um-objeto-json/){:target=\_blank},
+Assim como para [ler os atributos de um json](https://dicasdejavascript.com.br/javascript-como-ler-os-dados-dos-atributos-de-um-objeto-json/){:target=\_blank},
 existem duas formas de alterar o valor de um atributo de um objeto json.
 
 A primeira é através do ponto (`.`), você escreve o nome do objeto ponto (`.`) e o nome do atributo, em seguida o sinal igual (`=`) e, por fim, o novo valor do atributo.
