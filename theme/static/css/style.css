@@ -90,10 +90,19 @@ footer {
  	font-size: 16px;
  }
 
+ #sidebar-banner {
+	width: max-content;
+	/* background-color: black; */
+ }
+ 
  @media (min-width: 1200px){
 	.fix-bannner {
 		position: fixed;
-		top: 80px;
+		top: 60px;
+	}
+	.fix-bannner-close-to-footer {
+		position: fixed;
+		top: -60px;
 	}
  }
  
