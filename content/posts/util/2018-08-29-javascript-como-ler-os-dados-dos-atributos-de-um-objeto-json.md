@@ -26,4 +26,4 @@ console.log(objeto['atributo2']);
 
 Abaixo um exemplo de execução de leitura de atributos no console do Chrome.
 
-![Exemplo de leitura de atributos de um objeto json em Javascript](/images/leitura-de-atributos-de-um-json.gif){:width=100%}
+![Exemplo de leitura de atributos de um objeto json em Javascript](/images/leitura-de-atributos-de-um-json.gif){:style="width:100%;padding:10px;"}

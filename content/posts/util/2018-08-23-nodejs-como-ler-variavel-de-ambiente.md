@@ -24,7 +24,7 @@ process.env['OS']
 
 ## Exemplo de execução
 
-![Como ler variável de ambiente com Javascript](/images/ler-variavel-de-ambiente.gif){:width=100%}
+![Como ler variável de ambiente com Javascript](/images/ler-variavel-de-ambiente.gif){:style="width:100%;padding:10px;"}
 
 **Importante!** A variável de ambiente `JAVA_HOME` já estava configurada na minha máquina no momento da execução.
 

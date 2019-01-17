@@ -21,7 +21,7 @@ console.log(objeto);
 
 Abaixo um exemplo de execução deste código no console do Chrome.
 
-![Exemplo de conversão de uma string em um objeto json em Javascript](/images/converte-string-para-json-em-javascript.gif){:width=100%}
+![Exemplo de conversão de uma string em um objeto json em Javascript](/images/converte-string-para-json-em-javascript.gif){:style="width:100%;padding:10px;"}
 
 ## Referências
 

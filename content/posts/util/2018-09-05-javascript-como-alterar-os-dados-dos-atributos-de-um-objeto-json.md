@@ -42,4 +42,4 @@ console.log(objeto.atributo3);
 
 Abaixo um exemplo de execução de alteração de atributos no console do Chrome.
 
-![Exemplo de alteração e adição de atributos em um objeto json em Javascript](/images/alteracao-de-atributos-de-um-json.gif){:width=100%}
+![Exemplo de alteração e adição de atributos em um objeto json em Javascript](/images/alteracao-de-atributos-de-um-json.gif){:style="width:100%;padding:10px;"}

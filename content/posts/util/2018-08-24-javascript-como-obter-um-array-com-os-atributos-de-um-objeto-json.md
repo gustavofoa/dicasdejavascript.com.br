@@ -33,7 +33,7 @@ Saída:
 
 Veja um exemplo executado no console do Google Chrome.
 
-![Exemplo de captura de array com as chaves de um objeto json em Javascript](/images/array-com-chaves-de-um-objeto-json.gif){:width=100%}
+![Exemplo de captura de array com as chaves de um objeto json em Javascript](/images/array-com-chaves-de-um-objeto-json.gif){:style="width:100%;padding:10px;"}
 
 ## Referências
 

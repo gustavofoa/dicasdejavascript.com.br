@@ -88,7 +88,7 @@ O código abaixo mostra um exemplo completo de código javascript que implementa
 
 Veja abaixo o resultado deste código.
 
-![execução de uma requisição http get com javascript puro](/examples/exemplo-http-get-request/resultado.gif){:width=100%}
+![execução de uma requisição http get com javascript puro](/examples/exemplo-http-get-request/resultado.gif){:style="width:100%;padding:10px;"}
 
 Qualquer dúvidas, fique a vontade para postar nos comentários.
 
