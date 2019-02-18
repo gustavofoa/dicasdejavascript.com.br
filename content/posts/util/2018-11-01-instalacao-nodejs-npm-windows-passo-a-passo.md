@@ -2,7 +2,7 @@
 date: 2018-11-01
 author: Gustavo Furtado de Oliveira Alves
 category: Util
-tags: instalação, windows, nodejs
+tags: instalação, windows, nodejs, npm
 image: /images/logo-nodejs.png
 
 Para instalar o nodejs e o npm no Windows, primeiro você precisa acessar a página de downloads do
