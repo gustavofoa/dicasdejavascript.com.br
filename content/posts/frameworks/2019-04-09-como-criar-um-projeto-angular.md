@@ -1,4 +1,4 @@
-title: Como criar um projeto angular
+title: Como criar um projeto com Angular
 date: 2019-04-09
 author: Gustavo Furtado de Oliveira Alves
 category: Frameworks
