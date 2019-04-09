@@ -25,22 +25,23 @@ Este comando cria o seu projeto Angular já com um esqueleto, seguindo as boas p
 Além de podermos dar qualquer nome para a aplicação, o `ng new` dá a opção de duas customizações.
 
 1. Se queremos que ele já configure uma rota para a aplicação. Eu recomendo que responda sim (y), pois as rotas permitem que naveguemos de uma view para outra, então provavelmente você vai precisar na sua nova aplicação.
-2. Qual formato de folha de estilo queremos usar (CSS, sass, Less, Stylus). Esta é uma escolha pessoal, eu gosto do Sass, mas vai da sua preferência.
+2. Qual formato de folha de estilo queremos usar (CSS, Sass, Less, Stylus). Esta é uma escolha pessoal, eu gosto do Sass, mas vai da sua preferência.
 
 E claro, o Angular-Cli é em [**inglês**](https://dicasdeprogramacao.com.br/quer-ser-programador-aprenda-ingles/){:target=\_blank}. Veja abaixo, como o angular-cli oferece essas opções.
 
 ![Execução do 'ng new'](/images/ng-new-options.gif){:style="width:100%;"}
 
-Por fim, o Angular CLI criará o esqueleto do seu projeto e instalar os pacotes _npm_ necessários para a sua aplicação. Isso pode demorar alguns minutos.
+Por fim, o Angular CLI criará o esqueleto do seu projeto e instalará os pacotes _npm_ necessários para a sua aplicação. Isso pode demorar alguns minutos.
 
 Ao final do processo você terá uma pasta com o nome que você escolheu pra sua aplicação, esta pasta contém:
 
 - O esqueleto inicial do seu projeto (na pasta `src`)
-- Um projeto de teste end-to-end (na pasta e2e)
-- Arquivos de configuração do seu projeto (angular.json, package.json, tsconfig.json, tslint.json, .gitignore)
+- Um projeto de teste end-to-end (na pasta `e2e`)
+- Arquivos de configuração do seu projeto (`angular.json`, `package.json`, `tsconfig.json`, `tslint.json` e `.gitignore`)
+- Um `README.md` para você descrever a sua aplicação seguindo as prática da comunidade open source.
 
 Não vou entrar em detalhes sobre a estrutura do projeto neste post, mas se você quiser executar a sua nova aplicação Angular, basta entrar na pasta do projeto e executar o comando `ng serve --open`.
-O Angular CLI vai criar um servidor local para executar a sua aplicação e o parâmetro `--open`, abrirá o browser com a sua aplicação automaticamente.
+O Angular CLI vai criar um servidor local para executar a sua aplicação e o parâmetro `--open` abrirá o browser com a sua aplicação automaticamente.
 
 ![Executando a sua aplicação Angular com 'ng serve --open'](/images/ng-serve--open.gif){:style="width:100%;"}
 
