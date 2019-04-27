@@ -37,7 +37,7 @@ O código abaixo mostra como fazer uma requisição HTTP **assíncrona** com ```
 var url = "https://dicasdejavascript.com.br/exemplo.txt";//Sua URL
 
 var xhttp = new XMLHttpRequest();
-xhttp.open("GET", url, false);
+xhttp.open("GET", url, true);
 
 xhttp.onreadystatechange = function(){//Função a ser chamada quando a requisição retornar do servidor
     if ( xhttp.readyState == 4 && xhttp.status == 200 ) {//Verifica se o retorno do servidor deu certo
