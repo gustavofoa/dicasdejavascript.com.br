@@ -2,7 +2,7 @@
 date: 2019-05-17
 author: Gustavo Furtado de Oliveira Alves
 category: Util
-tags: npm
+tags: nodejs, npm
 image: /images/logo-nodejs.png
 
 Se você quer saber como começar com nodejs e criar o seu primeiro projeto,
