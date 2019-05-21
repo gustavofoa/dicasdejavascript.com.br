@@ -1,4 +1,4 @@
-﻿title: Como remover pacotes com NPM
+﻿title: Como remover pacotes corretamente com NPM
 date: 2019-05-21
 author: Gustavo Furtado de Oliveira Alves
 category: Util
