@@ -1,27 +1,43 @@
 {
-  "name": "dicasdejavascript.com.br",
-  "version": "1.0.0",
-  "description": "Blog com dicas sobre Javascript",
-  "main": "index.js",
+  "name": "gatsby-starter-default",
+  "private": true,
+  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "version": "0.1.0",
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "dependencies": {
+    "gatsby": "^2.17.6",
+    "gatsby-image": "^2.2.30",
+    "gatsby-plugin-manifest": "^2.2.25",
+    "gatsby-plugin-offline": "^3.0.17",
+    "gatsby-plugin-react-helmet": "^3.1.13",
+    "gatsby-plugin-sharp": "^2.2.34",
+    "gatsby-source-filesystem": "^2.1.35",
+    "gatsby-transformer-sharp": "^2.3.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-helmet": "^5.2.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gustavofoa/dicasdejavascript.com.br.git"
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
   },
-  "author": "Gustavo Furtado de Oliveira Alves",
-  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gustavofoa/dicasdejavascript.com.br/issues"
-  },
-  "homepage": "https://github.com/gustavofoa/dicasdejavascript.com.br#readme",
-  "dependencies": {
-    "del": "^3.0.0",
-    "gulp": "^3.9.1",
-    "gulp-connect": "^5.0.0",
-    "gulp-connect-multi": "^1.0.8",
-    "gulp-shell": "^0.6.5",
-    "gulp-watch": "^5.0.1"
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
   }
 }
