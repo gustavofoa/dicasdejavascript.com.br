@@ -8,7 +8,7 @@ const PoliticaDePrivacidadePage = () => (
     </p>
     <h2>Os Cookies e Web Beacons</h2>
     <p>
-        Utilizamos cookies para armazenar informação, tais como as suas preferências pessoais quando visita o nosso website. Isto poderá incluir um simples popup,  ou uma ligação em vários serviços que providenciamos, tais como fóruns. <strong>A Google faz uso do novo DART cookie para servir anúncios baseados nos seus interesses e na sua visita ao nosso blog e a outros endereços na web. Poderá optar por não utilizar o <a href="http://www.doubleclick.com/privacy/faq.aspx" target="_blank" title="DART Cookie">DART cookie</a>  visitando a página de anúncios Google ad e o programa de policiamento da empresa.</strong>
+        Utilizamos cookies para armazenar informação, tais como as suas preferências pessoais quando visita o nosso website. Isto poderá incluir um simples popup,  ou uma ligação em vários serviços que providenciamos, tais como fóruns. <strong>A Google faz uso do novo DART cookie para servir anúncios baseados nos seus interesses e na sua visita ao nosso blog e a outros endereços na web. Poderá optar por não utilizar o <a href="http://www.doubleclick.com/privacy/faq.aspx" target="_blank"  rel="noopener noreferrer" title="DART Cookie">DART cookie</a>  visitando a página de anúncios Google ad e o programa de policiamento da empresa.</strong>
     </p>
     <h2>Informações Pessoais</h2>
     <ul>
