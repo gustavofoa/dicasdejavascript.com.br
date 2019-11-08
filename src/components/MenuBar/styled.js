@@ -22,6 +22,12 @@ export const MenuBarGroup = styled.div`
 
 export const MenuBarLink = styled(Link)`
   display: block;
+
+&.active {
+  span {
+    color: #1fa1f2;
+  }
+}
 `
 
 export const MenuBarItem = styled.span`
