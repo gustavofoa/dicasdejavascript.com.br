@@ -1,9 +1,12 @@
+---
 title: Como fazer uma requisicao HTTP GET com javascript puro
 date: 2018-08-10
 author: Gustavo Furtado de Oliveira Alves
 category: Fundamentos
 tags: iniciante, request, http
 image: /images/logo-javascript.png
+summary: Aprenda a fazer requisições GET em Javascript sem usar nenhum framework.
+---
 
 Este post mostra como fazer uma requisição HTTP com javascript puro, ou seja sem usar frameworks como jQuery.
 Para isso basta utilizar a API **XMLHttpRequest** nativa do javascript.
