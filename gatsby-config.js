@@ -1,10 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: `{ Dicas de Javascript }`,
-    description: `Dicas práticas e tutorias para solucionar as suas dǘvidas de Javascript!`,
+    description: `Dicas práticas e tutorias para solucionar as suas dúvidas de Javascript!`,
     author: `Gustavo Furtado de Oliveira Alves`,
   },
   plugins: [
+    `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
