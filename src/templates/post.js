@@ -3,6 +3,7 @@ import { graphql } from 'gatsby'
 
 import Layout from "../components/Layout"
 import SEO from "../components/seo"
+import Comments from "../components/Comments"
 
 import * as S from "../components/Post/styled"
 
@@ -20,6 +21,7 @@ const Post = ({ data }) => {
             <S.MainContent>
                 <div dangerouslySetInnerHTML={{__html: post.html}}></div>
             </S.MainContent>
+            <Comments url={post.fields.slug} title={post.frontmatter.title}></Comments>
         </Layout>
     )
 }
@@ -29,6 +31,9 @@ export const query = graphql`
         markdownRemark(fields: {slug: {eq: $slug}}) {
             html
             timeToRead
+            fields {
+                slug
+            }
             frontmatter {
                 title
                 summary
