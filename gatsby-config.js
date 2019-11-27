@@ -45,7 +45,9 @@ module.exports = {
           }
         },
         'gatsby-remark-lazy-load',
-        'gatsby-remark-static-images'],
+        'gatsby-remark-static-images',
+        //prism needs to be the last one
+        'gatsby-remark-prismjs'],
       },
     },
     `gatsby-transformer-sharp`,
