@@ -10,14 +10,14 @@ summary: Aprenda a fazer requisições GET em Javascript sem usar nenhum framewo
 
 Este post mostra como fazer uma requisição HTTP com javascript puro, ou seja sem usar frameworks como jQuery.
 Para isso basta utilizar a API **XMLHttpRequest** nativa do javascript.
-
+ 
 > Disponibilizei um arquivo texto para utilizarmos como exemplo no endereço:
-<https://dicasdejavascript.com.br/exemplo.txt>
+<https://dicasdejavascript.com.br/assets/images/exemplo-http-get-request/exemplo.txt>
 
 O código abaixo mostra a forma mais simples, embora não indicada, de fazer uma requisição GET com javascript.
 
 ```javascript
-var url = "https://dicasdejavascript.com.br/exemplo.txt";//Sua URL
+var url = "https://dicasdejavascript.com.br/assets/images/exemplo-http-get-request/exemplo.txt";//Sua URL
 
 var xhttp = new XMLHttpRequest();
 xhttp.open("GET", url, false);
@@ -37,7 +37,7 @@ Com requisições assíncronas, o código continua sendo executado mesmo que o s
 O código abaixo mostra como fazer uma requisição HTTP **assíncrona** com ```XMLHttpRequest```.
 
 ```javascript
-var url = "https://dicasdejavascript.com.br/exemplo.txt";//Sua URL
+var url = "https://dicasdejavascript.com.br/assets/images/exemplo-http-get-request/exemplo.txt";//Sua URL
 
 var xhttp = new XMLHttpRequest();
 xhttp.open("GET", url, true);
@@ -67,7 +67,7 @@ O código abaixo mostra um exemplo completo de código javascript que implementa
 </head>
 <body>
 
-    <input type="text" id="url" style="width:300px;" value="https://dicasdejavascript.com.br/exemplo.txt">
+    <input type="text" id="url" style="width:300px;" value="https://dicasdejavascript.com.br/assets/images/exemplo-http-get-request/exemplo.txt">
     <button onclick="fazerRequisicao();">Fazer requisição</button>
     <hr />
     <div id="resposta"></div>
@@ -91,7 +91,7 @@ O código abaixo mostra um exemplo completo de código javascript que implementa
 
 Veja abaixo o resultado deste código.
 
-![execução de uma requisição http get com javascript puro](/examples/exemplo-http-get-request/resultado.gif){:style="width:100%;padding:10px;"}
+![execução de uma requisição http get com javascript puro](/assets/images/exemplo-http-get-request/resultado.gif)
 
 Qualquer dúvidas, fique a vontade para postar nos comentários.
 
