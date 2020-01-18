@@ -1,9 +1,12 @@
-title: NodeJs: Como ler variável de ambiente
+---
+title: "NodeJs: Como ler variável de ambiente"
 date: 2018-08-23
 author: Gustavo Furtado de Oliveira Alves
 category: Util
 tags: process, nodejs
 image: /images/logo-nodejs.png
+summary: Ler variáveis de ambientes é uma tarefa muito importante em qualquer linguagem de programação. Vamos ver como fazer isso em Javascript com NodeJS.
+---
 
 Ler uma variável de ambiente é muito simples com Javascript.
 As variáveis de ambiente dos seu SO são carregadas como atributos do objeto `process.env`.
@@ -24,7 +27,7 @@ process.env['OS']
 
 ## Exemplo de execução
 
-![Como ler variável de ambiente com Javascript](/images/ler-variavel-de-ambiente.gif){:style="width:100%;padding:10px;"}
+![Como ler variável de ambiente com Javascript](/images/ler-variavel-de-ambiente.gif)
 
 **Importante!** A variável de ambiente `JAVA_HOME` já estava configurada na minha máquina no momento da execução.
 
@@ -32,4 +35,4 @@ Você pode consultar o valor de qualquer variável de ambiente do seu sistema op
 
 ## Referência
 
-1. [Doc: process.env](https://nodejs.org/dist/latest-v10.x/docs/api/process.html#process_process_env){:target=\_blank}
+1. [Doc: process.env](https://nodejs.org/dist/latest-v10.x/docs/api/process.html#process_process_env)
