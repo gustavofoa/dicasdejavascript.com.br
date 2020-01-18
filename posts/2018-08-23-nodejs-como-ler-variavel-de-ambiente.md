@@ -29,9 +29,7 @@ process.env['OS']
 
 ![Como ler variável de ambiente com Javascript](/images/ler-variavel-de-ambiente.gif)
 
-**Importante!** A variável de ambiente `JAVA_HOME` já estava configurada na minha máquina no momento da execução.
-
-Você pode consultar o valor de qualquer variável de ambiente do seu sistema operacional.
+Desta forma você pode consultar o valor de qualquer variável de ambiente do seu sistema operacional.
 
 ## Referência
 
