@@ -63,7 +63,7 @@ const GlobalStyles = createGlobalStyle`
   	height: auto;
   }
 
-  body {
+  body.light {
     --borders: #dedede;
     --texts: #555555;
     --postColor: #111;
