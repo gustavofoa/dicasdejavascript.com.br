@@ -42,9 +42,6 @@ const MenuBar = () => {
             >
                 <Light />
             </S.MenuBarItem>
-            <S.MenuBarItem title="Mudar a visualização">
-                <Grid />
-            </S.MenuBarItem>
             <S.MenuBarItem title="Ir para o topo">
                 <Arrow />
             </S.MenuBarItem>
