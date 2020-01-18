@@ -19,10 +19,10 @@ export const MenuLinksItem = styled.li`
 export const MenuLinksLink = styled(Link)`
   color: var(--texts);
   text-decoration: none;
-  transiction: color 0.5s;
+  transition: color 0.5s;
 
   &:hover {
-    color: var(--highlight);
+    color: var(--highlight)
   }
 `
 
