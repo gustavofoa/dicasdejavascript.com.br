@@ -1,9 +1,11 @@
-title: Javascript: Como converter objeto JSON em String
-date: 2018-08-28
+---
+title: 'Javascript: Como converter objeto JSON em String'
+date: '2018-08-28'
 author: Gustavo Furtado de Oliveira Alves
 category: Util
 tags: string, json, converter
 image: /images/logo-javascript.png
+---
 
 Suponha que você tenha um objeto JSON e deseja transformar este objeto JSON em uma String no javascript.
 

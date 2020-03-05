@@ -1,9 +1,11 @@
-title: Javascript: qual a diferença entre VAR e LET?
-date: 2019-04-29
+---
+title: 'Javascript: qual a diferença entre VAR e LET?'
+date: '2019-04-29'
 author: Gustavo Furtado de Oliveira Alves
 category: Fundamentos
 tags: iniciante, var, let, variáveis
 image: /images/logo-javascript.png
+---
 
 Após o lançamento do Javascript 6 (ECMAScript 6 ou ES2015) uma das grandes dúvidas que surgiram foi:
 **Qual é a diferença entre _var_ e _let_?**

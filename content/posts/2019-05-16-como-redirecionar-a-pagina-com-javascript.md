@@ -1,9 +1,11 @@
+---
 title: Como redirecionar a página com javascript
-date: 2019-05-16
+date: '2019-05-16'
 author: Gustavo Furtado de Oliveira Alves
 category: Fundamentos
 tags: iniciante
 image: /images/logo-javascript.png
+---
 
 Quando temos um link em HTML com a tag `<a href='/outra-pagina'>` e um usuário clica neste link,
 o navegador redireciona a navegação para o endereço informado no atributo `href` da tag.

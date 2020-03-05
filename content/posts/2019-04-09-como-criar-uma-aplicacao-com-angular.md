@@ -1,9 +1,11 @@
+---
 title: Como criar uma aplicação com Angular
-date: 2019-04-09
+date: '2019-04-09'
 author: Gustavo Furtado de Oliveira Alves
 category: Frameworks
 tags: angular
 image: /images/logo-angular.png
+---
 
 Dar os primeiros passos com o Angular não é algo muito complicado.
 Primeiro você precisa instalar o NodeJS e o NPM e depois o Angular-Cli.

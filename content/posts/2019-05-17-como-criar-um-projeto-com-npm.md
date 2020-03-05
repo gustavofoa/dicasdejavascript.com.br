@@ -1,9 +1,11 @@
-﻿title: Como criar um projeto NodeJS com NPM
-date: 2019-05-17
+﻿---
+title: Como criar um projeto NodeJS com NPM
+date: '2019-05-17'
 author: Gustavo Furtado de Oliveira Alves
 category: Util
 tags: nodejs, npm
 image: /images/logo-nodejs.png
+---
 
 Se você quer saber como começar com nodejs e criar o seu primeiro projeto,
 após a [instalação do Node com o NPM](/instalacao-do-nodejs-e-npm-no-windows-passo-a-passo){:target=\_blank}

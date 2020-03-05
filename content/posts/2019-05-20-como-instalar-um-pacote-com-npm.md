@@ -1,9 +1,11 @@
-﻿title: Como instalar um pacote com NPM
-date: 2019-05-20
+﻿---
+title: Como instalar um pacote com NPM
+date: '2019-05-20'
 author: Gustavo Furtado de Oliveira Alves
 category: Util
 tags: nodejs, npm
 image: /images/logo-nodejs.png
+---
 
 Quem está começando a jornada com NodeJS, após
 [criar um projeto com o NPM](/como-criar-um-projeto-nodejs-com-npm){:target=\_blank},

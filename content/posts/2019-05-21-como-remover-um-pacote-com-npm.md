@@ -1,9 +1,11 @@
-﻿title: Como remover pacotes corretamente com NPM
-date: 2019-05-21
+﻿---
+title: Como remover pacotes corretamente com NPM
+date: '2019-05-21'
 author: Gustavo Furtado de Oliveira Alves
 category: Util
 tags: nodejs, npm
 image: /images/logo-nodejs.png
+---
 
 Você instalou um pacote no seu projeto nodejs, mas agora não vai mais usá-lo?
 Para remover um pacote do seu projeto você pode simplesmente apagar a linha dessa dependência do seu `package.json`,

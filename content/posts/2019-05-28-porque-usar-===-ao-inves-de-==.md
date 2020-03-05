@@ -1,9 +1,11 @@
-title: Javascript: Porque usar === ao invés de ==
-date: 2019-05-28
+---
+title: 'Javascript: Porque usar === ao invés de =='
+date: '2019-05-28'
 author: Gustavo Furtado de Oliveira Alves
 category: Fundamentos
 tags: iniciante
 image: /images/logo-javascript.png
+---
 
 Você já deve ter se deparado com um `if` em javascript que tinha três sinais de igual (`===`) ao invés de dois (`==`), que é mais 'normal' principalmente se você já trabalhou com linguagens fortemente tipadas, como Java, C#, C, etc.
 

@@ -1,9 +1,11 @@
+---
 title: Como criar uma classe em Javascript
-date: 2019-09-06
+date: '2019-09-06'
 author: Gustavo Furtado de Oliveira Alves
 category: Fundamentos
 tags: iniciante
 image: /images/logo-javascript.png
+---
 
 A partir da especificação ES2015, nós podemos criar uma classe em javascript de forma muito simples,
 mais parecido com outras linguagens do paradigma de Orientação a Objetos,

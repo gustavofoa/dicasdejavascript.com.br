@@ -1,9 +1,11 @@
-﻿title: Instalação do NodeJS e npm no Windows (Passo a passo!)
-date: 2018-11-01
+﻿---
+title: 'Instalação do NodeJS e npm no Windows (Passo a passo!)'
+date: '2018-11-01'
 author: Gustavo Furtado de Oliveira Alves
 category: Util
 tags: instalação, windows, nodejs, npm
 image: /images/logo-nodejs.png
+---
 
 Para instalar o nodejs e o npm no Windows, primeiro você precisa acessar a página de downloads do
 [**site oficial**](https://nodejs.org/en/download/current/){:target=\_blank}

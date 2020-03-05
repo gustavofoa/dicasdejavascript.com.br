@@ -1,9 +1,11 @@
-title: Javascript: Como obter um array com os atributos/chaves de um objeto JSON
-date: 2018-08-24
+---
+title: 'Javascript: Como obter um array com os atributos/chaves de um objeto JSON'
+date: '2018-08-24'
 author: Gustavo Furtado de Oliveira Alves
 category: Util
 tags: array, json
 image: /images/logo-javascript.png
+---
 
 Em algum momento da sua vida como desenvolvedor javascript,
 você precisará saber quais são os atributos de um objeto JSON dinamicamente.

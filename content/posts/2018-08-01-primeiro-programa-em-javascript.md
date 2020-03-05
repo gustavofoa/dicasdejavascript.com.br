@@ -1,9 +1,11 @@
+---
 title: Primeiro programa em Javascript
-date: 2018-08-01
+date: '2018-08-01'
 author: Gustavo Furtado de Oliveira Alves
 category: Fundamentos
 tags: iniciante
 image: /images/logo-javascript.png
+---
 
 A forma mais simples de criar um programa com javascript é através de páginas HTML.
 Isso porque os browsers interpretam javascript nativamente.

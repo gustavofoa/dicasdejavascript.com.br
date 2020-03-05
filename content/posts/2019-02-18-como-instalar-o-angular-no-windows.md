@@ -1,9 +1,11 @@
+---
 title: Como instalar o Angular no Windows
-date: 2019-02-18
+date: '2019-02-18'
 author: Gustavo Furtado de Oliveira Alves
 category: Frameworks
 tags: instalação, windows, angular, nodejs, npm
 image: /images/logo-angular.png
+---
 
 Para quem se interessou em aprender **Angular**, a primeira coisa que tem que fazer é
 justamente instalar o **Angular Cli** para ter um ambiente de desenvolvimento para estudo.
