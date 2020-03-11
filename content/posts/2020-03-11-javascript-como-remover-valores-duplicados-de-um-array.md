@@ -17,7 +17,7 @@ Perceba que alguns valores se repetem no array.
 Se você quiser remover os valores repetidos do array, a linha abaixo faz este trabalho pra você.
 
 ```javascript
-const numerosSemRepeticao = [...new Set(ids)];
+const numerosSemRepeticao = [...new Set(numeros)];
 ```
 
 Dá uma olhada na execução deste código no console do meu navegador.
@@ -32,5 +32,5 @@ Além disso nós utilizamos o *Spread Operator* para criar um novo array com os 
 
 ## Referências
 
-1. [\[Documentação Mozilla] Set](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Set){:target=_blank}
-2. [\[Documentação Mozilla] Spread Operator](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_operator){:target=_blank}
+1. \[[Documentação Mozilla] Set](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Set){:target=_blank}
+2. \[[Documentação Mozilla] Spread Operator](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_operator){:target=_blank}
