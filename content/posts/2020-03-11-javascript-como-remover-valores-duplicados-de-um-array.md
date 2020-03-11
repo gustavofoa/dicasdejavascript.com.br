@@ -26,9 +26,11 @@ Dá uma olhada na execução deste código no console do meu navegador.
 
 O `Set` é uma estrutura de dados muito utilizada em várias linguagens de programação que, por padrão, não aceita valores repetidos. Ao contrário do array ou do `List`.
 
-Portanto, ele o Set é muito apropriado para este caso em que queremos limpar um array removendo os valores repetidos.
+Portanto, o `Set` é muito apropriado para este caso em que queremos limpar um array removendo os valores repetidos.
 
 Além disso nós utilizamos o *Spread Operator* para criar um novo array com os valores do nosso Set (que não aceita valores repetidos).
+
+Espero que tenha gostado da dica. Em caso de dúvida, fique à vontade para postar nos comentários.
 
 ## Referências
 
