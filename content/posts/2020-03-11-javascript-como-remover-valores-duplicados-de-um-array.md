@@ -6,7 +6,6 @@ category: Fundamentos
 tags: iniciante
 image: /images/logo-javascript.png
 ---
-
 Imagina que você tem um array em javascript que possui alguns valores duplicados. Como no exemplo abaixo.
 
 ```javascript
@@ -25,13 +24,13 @@ Dá uma olhada na execução deste código no console do meu navegador.
 
 ![Limpando valores repertidos de um array em javascript](/images/limpando-array-com-valores-repetidos.gif){:style="width:100%;padding:10px"}
 
-O `Set` é uma estrutura de dados muito utilizada em várias linguagens de programação que, por padrão, não aceita valores repetidos. Ao contrário do array ou do List.
+O `Set` é uma estrutura de dados muito utilizada em várias linguagens de programação que, por padrão, não aceita valores repetidos. Ao contrário do array ou do `List`.
 
 Portanto, ele o Set é muito apropriado para este caso em que queremos limpar um array removendo os valores repetidos.
 
-Além disso nós utilizamos o _Spread Operator_ para criar um novo array com os valores do nosso Set (que não aceita valores repetidos).
+Além disso nós utilizamos o *Spread Operator* para criar um novo array com os valores do nosso Set (que não aceita valores repetidos).
 
 ## Referências
 
-1. [[Documentação Mozilla] Set](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Set){:target=\_blank}
-2. [[Documentação Mozilla] Spread Operator](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_operator){:target=\_blank}
+1. [\[Documentação Mozilla] Set](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Set){:target=_blank}
+2. [\[Documentação Mozilla] Spread Operator](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_operator){:target=_blank}
