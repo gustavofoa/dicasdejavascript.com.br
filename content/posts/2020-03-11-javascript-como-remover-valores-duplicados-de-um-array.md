@@ -1,5 +1,5 @@
 ---
-title: 'Javascript: Como remover valores duplicados de um array'
+title: 'Javascript: Como remover valores repetidos de um array'
 date: '2020-03-11'
 author: Gustavo Furtado de Oliveira Alves
 category: Fundamentos
@@ -7,68 +7,31 @@ tags: iniciante
 image: /images/logo-javascript.png
 ---
 
-A partir da especificação ES2015, nós podemos criar uma classe em javascript de forma muito simples,
-mais parecido com outras linguagens do paradigma de Orientação a Objetos,
-utilizando a palavra-chave reservada `class`. Veja o exemplo abaixo:
+Imagina que você tem um array em javascript que possui alguns valores duplicados. Como no exemplo abaixo.
 
 ```javascript
-class Pessoa{
-
-}
+const numeros = [2, 5, 6, 8, 5, 1 ,4, 6, 2, 8, 5, 6];
 ```
 
-Para instanciar a classe usamos a palavra-chave `new`.
+Perceba que alguns valores se repetem no array.
+
+Se você quiser remover os valores repetidos do array, a linha abaixo faz este trabalho pra você.
 
 ```javascript
-let pessoa = new Pessoa();
+const numerosSemRepeticao = [...new Set(ids)];
 ```
 
-## Atributos
+Dá uma olhada na execução deste código no console do meu navegador.
 
-Diferentemente de Java, C# e outras linguagens do paradigma OO,
-em javascript precisamos especificar os atributos de uma classe dentro do seu construtor.
-Veja o exemplo abaixo:
+![Limpando valores repertidos de um array em javascript](/images/limpando-array-com-valores-repetidos.gif){:style="width:100%;padding:10px"}
 
-```javascript
-class Pessoa{
+O `Set` é uma estrutura de dados muito utilizada em várias linguagens de programação que, por padrão, não aceita valores repetidos. Ao contrário do array ou do List.
 
-    constructor(){
-        this.nome = ''
-    }
-}
-```
+Portanto, ele o Set é muito apropriado para este caso em que queremos limpar um array removendo os valores repetidos.
 
-No exemplo acima a nossa classe `Pessoa` define o atributo `nome` que é inicializado com um texto vazio.
-
-## Métodos
-
-Métodos são "funções" que pertencem a uma classe.
-E para declarar um método em javascript basta escrever o seu nome, sem a necessidade da palafra-chave `functions`. Veja o exemplo do método `calculaArea` da classe `Retangulo` abaixo.
-
-```javascript
-class Retangulo {
-    constructor(altura, largura) {
-      this.altura = altura;
-      this.largura = largura;
-    }
-
-    calculaArea() {  
-        return this.altura * this.largura;  
-    }
-}
-```
-
-Perceba também que estamos recebendo no construtor da classe, os valores iniciais dos atributos `altura` e `largura`.
-
-Dá uma olhada na utilização desta classe no console do meu navegador.
-
-![utilização de uma classe em javascript](/images/classe-em-javascript.gif){:style="width:100%;padding:10px"}
-
-Viu como é simples?
-
-Qualquer dúvida fique à vontade para escrever aqui em baixo nos comentários!
+Além disso nós utilizamos o _Spread Operator_ para criar um novo array com os valores do nosso Set (que não aceita valores repetidos).
 
 ## Referências
 
-1. [[Documentação Mozilla] Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes){:target=\_blank}
-2. [Especificação EcmaScript 6.0: Class Definitions](https://www.ecma-international.org/ecma-262/6.0/#sec-class-definitions){:target=\_blank}
+1. [[Documentação Mozilla] Set](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Set){:target=\_blank}
+2. [[Documentação Mozilla] Spread Operator](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_operator){:target=\_blank}
