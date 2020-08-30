@@ -40,7 +40,6 @@ SITEMAP = {
 # Following items are often useful when publishing
 
 DISQUS_SITENAME = "dicas-de-javascript"
-GOOGLE_ANALYTICS = "UA-39997045-6"
 
 
 MINIFY = {
