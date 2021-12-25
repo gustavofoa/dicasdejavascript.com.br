@@ -93,11 +93,20 @@ DEFAULT_HOTMART = 'banners/gustavo/banner-hotmart.html'
 AUTHORS = {
     'Gustavo Furtado de Oliveira Alves': {
         'summary': 'É mestre em computação aplicada pelo Institudo Nacional de Pesquisas Espaciais, '+
-                  'Engenheiro da Computação pela ETEP Faculdades e '+
-                  'Técnico em Informática pela Escola Técnica Pandiá Calógeras. '+
-                  'Possui as certificações AWS Architect Associate, AWS Cloud Practitioner, SCJP-6, SCWCD-5 e Agile Scrum Foundation '+
-                  'e trabalha com desenvolvimento de softwares desde 2007.',
+        'Engenheiro da Computação pela ETEP Faculdades e '+
+        'Técnico em Informática pela Escola Técnica Pandiá Calógeras. '+
+        'Possui as certificações AWS Architect Associate, AWS Cloud Practitioner, SCJP-6, SCWCD-5 e Agile Scrum Foundation '+
+        'e trabalha com desenvolvimento de softwares desde 2007.',
         'image': 'https://dicasdejavascript.com.br/images/author-gustavo.jpeg',
+        'adsense': DEFAULT_ADSENSE,
+        'hotmart': DEFAULT_HOTMART
+    },
+    'Marcelo Santos de Oliveira': {
+        'summary': 'Desenvolvedor junior, sempre buscando conhecimento para compartilhar, ' +
+        'Engenheiro Eletricista formado pela Unisal Americana e  ' +
+        'Técnico em Automação pela Etec.  ' +
+        'Trabalha com desenvolvimento de softwares desde 2021.',
+        'image': 'https://media-exp1.licdn.com/dms/image/C4E03AQE02nqcZq6rKA/profile-displayphoto-shrink_800_800/0/1617568739579?e=1640822400&v=beta&t=lQpincJIAjtNJQHu_l9eqVF_w0YEPHWrjsZhoPJwuis',
         'adsense': DEFAULT_ADSENSE,
         'hotmart': DEFAULT_HOTMART
     }
