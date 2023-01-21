@@ -3,7 +3,8 @@ title: Como redirecionar a página com javascript
 date: '2019-05-16'
 author: Gustavo Furtado de Oliveira Alves
 category: Fundamentos
-tags: iniciante
+
+[//]: # (tags: iniciante)
 image: /images/logo-javascript.png
 ---
 

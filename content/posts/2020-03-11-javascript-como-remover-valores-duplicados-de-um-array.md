@@ -3,7 +3,8 @@ title: 'Javascript: Como remover valores repetidos de um array'
 date: '2020-03-11'
 author: Gustavo Furtado de Oliveira Alves
 category: Fundamentos
-tags: iniciante
+
+[//]: # (tags: iniciante)
 image: /images/logo-javascript.png
 ---
 Imagina que você tem um array em javascript que possui alguns valores duplicados. Como no exemplo abaixo.

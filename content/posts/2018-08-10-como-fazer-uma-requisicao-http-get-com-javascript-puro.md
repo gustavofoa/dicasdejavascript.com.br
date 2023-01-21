@@ -3,7 +3,8 @@ title: Como fazer uma requisicao HTTP GET com javascript puro
 date: '2018-08-10'
 author: Gustavo Furtado de Oliveira Alves
 category: Fundamentos
-tags: iniciante, request, http
+
+[//]: # (tags: iniciante, request, http)
 image: /images/logo-javascript.png
 ---
 

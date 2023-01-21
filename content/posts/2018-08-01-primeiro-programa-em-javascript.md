@@ -3,7 +3,7 @@ title: Primeiro programa em Javascript
 date: '2018-08-01'
 author: Gustavo Furtado de Oliveira Alves
 category: Fundamentos
-tags: iniciante
+[//]: # (tags: iniciante)
 image: /images/logo-javascript.png
 ---
 

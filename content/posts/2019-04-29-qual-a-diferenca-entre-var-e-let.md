@@ -3,7 +3,8 @@ title: 'Javascript: qual a diferença entre VAR e LET?'
 date: '2019-04-29'
 author: Gustavo Furtado de Oliveira Alves
 category: Fundamentos
-tags: iniciante, var, let, variáveis
+
+[//]: # (tags: iniciante, var, let, variáveis)
 image: /images/logo-javascript.png
 ---
 

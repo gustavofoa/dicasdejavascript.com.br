@@ -3,7 +3,8 @@ title: Como remover pacotes corretamente com NPM
 date: '2019-05-21'
 author: Gustavo Furtado de Oliveira Alves
 category: Util
-tags: nodejs, npm
+
+[//]: # (tags: nodejs, npm)
 image: /images/logo-nodejs.png
 ---
 
