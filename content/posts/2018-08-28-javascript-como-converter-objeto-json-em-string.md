@@ -3,8 +3,7 @@ title: 'Javascript: Como converter objeto JSON em String'
 date: '2018-08-28'
 author: Gustavo Furtado de Oliveira Alves
 category: Util
-
-[//]: # (tags: string, json, converter)
+tags: string, json, converter
 image: /images/logo-javascript.png
 ---
 

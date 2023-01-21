@@ -3,8 +3,7 @@ title: Como criar uma classe em Javascript
 date: '2019-09-06'
 author: Gustavo Furtado de Oliveira Alves
 category: Fundamentos
-
-[//]: # (tags: iniciante)
+tags: iniciante
 image: /images/logo-javascript.png
 ---
 

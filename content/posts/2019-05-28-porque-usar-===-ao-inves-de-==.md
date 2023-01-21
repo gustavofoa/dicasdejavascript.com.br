@@ -3,8 +3,7 @@ title: 'Javascript: Porque usar === ao invés de =='
 date: '2019-05-28'
 author: Gustavo Furtado de Oliveira Alves
 category: Fundamentos
-
-[//]: # (tags: iniciante)
+tags: iniciante
 image: /images/logo-javascript.png
 ---
 

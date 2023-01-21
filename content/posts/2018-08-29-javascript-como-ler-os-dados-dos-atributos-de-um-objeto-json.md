@@ -3,8 +3,7 @@ title: 'Javascript: Como ler os dados dos atributos de um objeto JSON'
 date: '2018-08-29'
 author: Gustavo Furtado de Oliveira Alves
 category: Util
-
-[//]: # (tags: json)
+tags: json
 image: /images/logo-javascript.png
 ---
 
