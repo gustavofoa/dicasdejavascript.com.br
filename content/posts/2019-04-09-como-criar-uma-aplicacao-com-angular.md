@@ -2,7 +2,7 @@
 title: Como criar uma aplicação com Angular
 date: '2019-04-09'
 author: Gustavo Furtado de Oliveira Alves
-category: Frameworks
+category: Util
 tags: angular
 image: /images/logo-angular.png
 ---
